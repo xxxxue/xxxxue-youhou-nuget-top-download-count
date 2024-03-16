@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         nuget 某个包的最大下载次数
+// @name         Nuget 某个包的 top 下载次数
 // @namespace    http://tampermonkey.net/
 // @version      2024-03-16
 // @description  try to take over the world!
